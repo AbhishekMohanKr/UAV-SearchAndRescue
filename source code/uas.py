@@ -13,7 +13,6 @@ def count_total_triangle(img1):
     # find the contours
     contours,hierarchy = cv.findContours(thresh,cv.RETR_EXTERNAL,cv.CHAIN_APPROX_SIMPLE)
     print("Number of contours detected:",len(contours))
-    cv.im
     gg=cv.drawContours(thresh, contours, -1, (0,255,0),1)
     cv.imshow("dfgh",gg)
 
