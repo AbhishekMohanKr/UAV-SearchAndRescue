@@ -85,7 +85,7 @@ priority_ratio = []
 image_name = []
 
 
-for i in range(1,3,1):
+for i in range(1, 11, 1):
     
 # Changing image backgroung colors
     # Path to your image file
