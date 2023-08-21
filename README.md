@@ -63,7 +63,7 @@ It takes four attributes image, lower HSV value of color, upper HSV value of col
 ### 2. crop()
 This function is used to crop the area with specific background color.
 It takes four attributes image, lower HSV value of color, upper HSV value of color.
-<img src="https://github.com/AbhishekMohanKr/UAV-SearchAndRescue/blob/main/source%20code/1.png" width="300" height="300"><img src="https://github.com/AbhishekMohanKr/UAV-SearchAndRescue/blob/main/source%20code/cropped1.png" width="300" height="300">
+<img src="https://github.com/AbhishekMohanKr/UAV-SearchAndRescue/blob/main/source%20code/1.png" width="200" height="200"><img src="https://github.com/AbhishekMohanKr/UAV-SearchAndRescue/blob/main/source%20code/cropped1.png" width="200" height="200">
 
 ### 3. count()
 This function is used to count no of triangles of specific color on specific background.
