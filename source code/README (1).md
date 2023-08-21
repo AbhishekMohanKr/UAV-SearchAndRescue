@@ -28,9 +28,7 @@ It is an computer vision AI based project to process images taken by UAS (unmann
 
 As we are priotising the houses in burnt area and green area.
 <p align="center">
-  <img src="https://github.com/AbhishekMohanKr/UAV-SearchAndRescue/blob/main/src/1.png">
-  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
-</p>
+  <img src="source code/1.png">
 
 ## Getting Started
 
